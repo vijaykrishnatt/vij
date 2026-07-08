@@ -1,0 +1,12 @@
+[project]
+name = "kite_backtesting_engine"
+version = "0.1.5"
+description = "Power up your crews with kite_backtesting_engine"
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "crewai[tools]>=1.15.0,<2.0.0"
+]
+
+[tool.crewai]
+type = "tool"
