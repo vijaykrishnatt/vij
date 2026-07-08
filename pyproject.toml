@@ -1,6 +1,6 @@
 [project]
 name = "kite_backtesting_engine"
-version = "0.1.5"
+version = "0.1.6"
 description = "Power up your crews with kite_backtesting_engine"
 readme = "README.md"
 requires-python = ">=3.10,<3.14"
