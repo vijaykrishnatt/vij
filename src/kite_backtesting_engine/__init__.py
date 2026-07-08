@@ -1,3 +1,3 @@
-from .tool import KiteBacktestingEngine
+from .tool import KiteBacktestingEngineTool
 
-__all__ = ["KiteBacktestingEngine"]
+__all__ = ["KiteBacktestingEngineTool"]
